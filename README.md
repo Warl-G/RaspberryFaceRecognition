@@ -1,5 +1,8 @@
 # RaspberryFaceRecognition
 
+![](https://github.com/guoru123/RaspberryFaceRecognition/raw/master/Mannual/raspberry.png)
+![](https://github.com/guoru123/RaspberryFaceRecognition/raw/master/Mannual/facerecognition.png)
+
 树莓派安装与操作步骤
 一、	安装系统
 1.	将储存卡插入读卡器，读卡器插入电脑USB接口
